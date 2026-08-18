@@ -84,10 +84,3 @@ A Machine Learning regression project that predicts car prices using features su
 **Domain:** Data Science  
 **Internship:** Data Science Internship
 
-## Author
-
-**Akshaya Anumalla**
-
-GitHub: [Your GitHub Profile](YOUR_GITHUB_LINK)
-
-LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
