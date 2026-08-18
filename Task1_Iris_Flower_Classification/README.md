@@ -1,3 +1,6 @@
+
+TASK 1: Iris Flower Classification 
+
 This project implements Iris Flower Classification using Machine Learning. The Iris dataset contains measurements of iris flowers, including sepal length, sepal width, petal length, and petal width. A Random Forest Classifier is trained to classify flowers into three species: Setosa, Versicolor, and Virginica.
 
 The project includes data loading, data exploration, visualization, model training, prediction, performance evaluation, and saving the trained model.
